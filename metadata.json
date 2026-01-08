@@ -1,0 +1,8 @@
+
+{
+  "name": "Orbit Study Tracker",
+  "description": "A futuristic space-themed dashboard to visualize study progress and mastery levels using interactive charts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
